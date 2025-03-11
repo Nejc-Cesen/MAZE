@@ -96,6 +96,6 @@ html, body {
 .buttons {
     display: flex;
     justify-content: space-evenly;
-    width: 50%;
+    width: 40%;
 }
 
