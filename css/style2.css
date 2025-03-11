@@ -51,7 +51,7 @@ html, body {
 #title {
     height: 250px;
     width: 456px;
-    margin: 0px auto 0;
+    margin: 20px auto 0;
     background-size: cover;  /* This makes the background image cover the whole div */
     background-repeat: no-repeat;  /* Prevents the background from repeating */
     background-position: center;  /* Centers the background image */
@@ -92,5 +92,11 @@ html, body {
 
 .swal2-confirm {
     background-color: rgb(24, 91, 23) !important;
+}
+
+.buttons {
+    display: flex;
+    justify-content: space-evenly;
+    width: 50%;
 }
 
