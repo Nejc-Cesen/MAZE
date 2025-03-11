@@ -42,7 +42,6 @@ html, body {
     height: 100%;  /* Celoten zaslon */
     width: 100%;
     display: flex;
-    flex-direction: column;
     justify-content: center;  /* Poravnava vsebine vertikalno in horizontalno */
     align-items: center;
     text-align: center;
